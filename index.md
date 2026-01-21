@@ -56,4 +56,6 @@ title: Dokumentacja SportConnect
 - [Retrospektywa Sprintu 1](zaliczenie/Retrospektrywa-sprintu-1-tinder-dla-sportowcow.md)
 - [Retrospektywa Sprintu 2](zaliczenie/Retrospektrywa-sprintu-2-tinder-dla-sportowcow.md)
 
+
 ---
+
